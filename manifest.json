@@ -1,9 +1,9 @@
 {
-  "name": "Producation",
-  "short_name": "Обучающие онлайн курсы Рroducation",
+  "name": "Обучающие онлайн курсы Producation",
+  "short_name": "Рroducation",
   "description": "Каталог онлайн курсов от компании Рroducation. Пишите, поможем выбрать обучение",
   "start_url": "https://stage.producation.ru/",
-  "scope": "/",
+  "scope": "https://stage.producation.ru/",
   "display": "standalone",
   "theme_color": "#1976d2",
   "background_color": "#ffffff",
